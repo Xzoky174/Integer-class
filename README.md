@@ -1,2 +1,2 @@
 # Integer-class
-Remaking some of the int class.
+Made (some) of the int class.
